@@ -12,3 +12,7 @@ Welcome to my Flappy Bird game project! This game is designed and developed usin
 This project is a fantastic way to enhance your JavaScript skills while creating a fun and interactive game. Dive in and enjoy coding your own Flappy Bird game! 🚀
 
 Feel free to contribute and share your feedback. Happy coding! 🎮 #JavaScript #HTML #CSS #GameDevelopment
+
+Live at: https://moulali2004.github.io/flappy-bird/
+
+![image](https://github.com/Moulali2004/flappy-bird/assets/143089879/5fcec1d6-f165-4b05-93c7-49eba8db1955)
